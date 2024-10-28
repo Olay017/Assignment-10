@@ -69,7 +69,7 @@ for (let i = 1; i <= 10; i++) {
 //SOLUTION
 let count = 1;
 while (count <= 10) {
-  console.log("5 X ${count} = ${5 * count}");
+  console.log(`5 X ${count} = ${5 * count}`);
   count++;
 }
 
